@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 DESCRIPTION = "This python module do nothing but print \"ayw NB\" as \"import ayw as nb\", and \"nb\" at simple import."
-VERSION = "0.0.5"
+VERSION = "0.0.6"
 
 setup(name="ayw",
       version=VERSION,
